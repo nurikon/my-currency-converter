@@ -8,19 +8,30 @@ elektrikli araç sürücleri ve e. şarj istasyonları arasında bağ kurması i
 
 ## Uygulamadan ekran görüntüleri
 
-![1](https://user-images.githubusercontent.com/44235071/102362066-003c6f80-3fc5-11eb-9e62-c9b4e4a4dbd5.jpg)
+![cur1](https://user-images.githubusercontent.com/44235071/102362971-02eb9480-3fc6-11eb-90ae-cc4d22743210.jpg)
+.
+.
+.
+.
+.
+.
+.
+.
+![cur2](https://user-images.githubusercontent.com/44235071/102362976-05e68500-3fc6-11eb-9ffd-76e0628cc79f.jpg)
+.
+.
+.
+.
+.
+.
+.
+![cur3](https://user-images.githubusercontent.com/44235071/102362992-0aab3900-3fc6-11eb-8307-7895fee4520e.jpg)
+.
+.
+.
+.
+.
+.
+.
+.
 
-
-
-
-
-
-
-![Screenshot_20201216-170930](https://user-images.githubusercontent.com/44235071/102361287-21e92700-3fc4-11eb-843c-e910d0259f91.png)
-
-
-
-
-
-
-![Screenshot_20201216-170939](https://user-images.githubusercontent.com/44235071/102361315-2b728f00-3fc4-11eb-96ed-2b5d672277b4.png)
